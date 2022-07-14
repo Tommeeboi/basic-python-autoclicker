@@ -28,4 +28,6 @@ After you compile, you can delete the build folder and .spec file
 
 
 ## Releases
-Beta v1.0 (LATEST): Should be fully done, just checking for bugs
+Beta v1.0: Should be fully done, just checking for bugs
+
+Beta v1.1 (LATEST): Updated License
