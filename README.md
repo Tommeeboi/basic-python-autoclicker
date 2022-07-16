@@ -25,9 +25,15 @@ pyinstaller --onefile clicker.py
 ```
 After you compile, you can delete the build folder and .spec file
 
-
-
 ## Releases
 Beta v1.0: Should be fully done, just checking for bugs
 
-Beta v1.1 (LATEST): Updated License
+Beta v1.1: Updated License
+
+v1.0 (LATEST):
+
+1. FixedLimit is no longer turned into an integer in the while loop, due to it already being an integer
+2. While loop isn't cramped anymore
+3. Source code and compiled code now have different file names. There should no longer be issues when compiling source code
+
+This'll probably be the last release, because there isn't really anything for me to add at this point
