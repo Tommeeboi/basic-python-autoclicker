@@ -12,6 +12,7 @@ print(f"Starting in {fixedDelay} seconds!")
 time.sleep(fixedDelay)
 
 print(f"Clicking... (For {limit} Seconds)")
+
 while i < fixedLimit:
 
     pyautogui.click()
